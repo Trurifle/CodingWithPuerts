@@ -1,0 +1,13 @@
+/.git
+/.vscode
+/Content
+/DerivedDataCache
+/Intermediate
+/Platforms
+/Saved
+/TypeScript
+/Plugins/Puerts/Content
+/Plugins/Puerts/Intermediate
+/Plugins/Puerts/PuertsEditor
+/Plugins/Puerts/ThirdParty
+/Plugins/Puerts/Typing
