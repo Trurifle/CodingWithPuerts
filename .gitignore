@@ -56,6 +56,9 @@ Plugins/*
 tsconfig.json
 ts_file_versions_info.json
 
+# TS Typing
+Typing/*
+
 # Builds
 Build/*
 
